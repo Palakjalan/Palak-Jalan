@@ -1,5 +1,5 @@
 
-#Palak Jalan 
+# Palak Jalan 
 
 🎓 3rd Year Computer Science Student | 📊 Aspiring Data Analyst  
 
